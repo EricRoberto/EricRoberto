@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilmar-zezilia-alves-336610182/)](https://www.linkedin.com/in/eric-roberto-dev/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilmar-zezilia-alves-336610182/)](https://www.linkedin.com/in/ericdevroberto/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gilmar.zezilia/)](https://www.instagram.com/eric.yoko/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericsilva328@gmail.com)](mailto:ericsilva328@gmail.com)
 
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <p align="center">
 
 
- ![AryclenioGitHubStats](https://github-readme-stats.vercel.app/api?username=EricRoberto&show_icons=true)  
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricRoberto&layout=compact&hide=php" />   
+ ![AryclenioGitHubStats](https://github-readme-stats.vercel.app/api?username=EricDevRoberto&show_icons=true)  
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricDevRoberto&layout=compact&hide=php" />   
 
 </p>
 
